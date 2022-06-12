@@ -1,0 +1,38 @@
+body {
+    background-color: aquamarine;
+}
+
+#container {
+    width: 680px;
+    background-color: beige;
+    margin: 0px auto;
+    padding: 10px 20px;
+}
+
+h1,
+body {
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    text-shadow: 5px 5px 10px black;
+}
+
+.red {
+    color: red;
+    font-size: 1.2em;
+}
+
+.blue {
+    color: blue;
+}
+
+.photo {
+    border-radius: 50%;
+    border: 3px solid black
+}
