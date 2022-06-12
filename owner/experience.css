@@ -1,0 +1,155 @@
+body {
+    background-color: bisque;
+    width: 0px auto;
+    margin: 0px;
+    padding: 0px;
+}
+
+#Leaderboard0 {
+    margin-top: -250px;
+    position: fixed;
+    top: 47%;
+    left: 740px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard0:hover {
+    left: 740px;
+    top: 46.75%;
+}
+
+#Leaderboard0 #title {
+    padding-left: 5px;
+}
+
+#Leaderboard1 {
+    margin-top: -250px;
+    position: fixed;
+    top: 47%;
+    left: 908px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard1:hover {
+    left: 908px;
+    top: 46.75%;
+}
+
+#Leaderboard1 #title {
+    padding-left: 5px;
+}
+
+#Leaderboard2 {
+    margin-top: -250px;
+    position: fixed;
+    top: 47%;
+    left: 1080px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard2:hover {
+    left: 1080px;
+    top: 46.75%;
+}
+
+#Leaderboard2 #title {
+    padding-left: 5px;
+}
+
+#Leaderboard3 {
+    margin-top: -250px;
+    position: fixed;
+    top: 40%;
+    left: 245px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard3:hover {
+    left: 245px;
+    top: 39.75%;
+}
+
+#Leaderboard3 #title {
+    padding-left: 5px;
+}
+
+#Leaderboard4 {
+    margin-top: -250px;
+    position: fixed;
+    top: 826px;
+    left: 924px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard4:hover {
+    left: 924px;
+    top: 824px;
+}
+
+#Leaderboard4 #title {
+    padding-left: 5px;
+}
+
+#container {
+    margin-top: 0px;
+    position: fixed;
+    top: 250px;
+    left: 700px;
+    width: 500px;
+    height: 300px;
+    background-color: aliceblue;
+    padding: 10px ;
+    border-radius: 10px;
+    overflow:scroll;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#x1{
+    position: fixed;
+    top: 0%;
+    left: 43%;
+}
+
+.z2{
+    width: 350px;
+    height: 550px;
+
+}
+
+#information{
+    background-color: burlywood;
+    width: 315px;
+    height: 150px;
+    position: fixed;
+    padding: 20px 20px 30px 45px;
+    border-radius: 10px;
+    top: 620px;
+    left: 770px;
+}
+
+#photo-main{
+    background-color: burlywood;
+    width: 375px;
+    height: 575px;
+    position: fixed;
+    padding: 20px 20px 25px 45px;
+    border-radius: 10px;
+    top: 180px;
+    left: 100px;
+}

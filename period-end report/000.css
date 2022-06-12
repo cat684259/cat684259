@@ -1,0 +1,157 @@
+.p0{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:0;
+}
+.p1{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p2{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p3{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p4{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p5{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p6{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p7{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p8{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p9{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+.p10{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+
+#a1 {
+    position: absolute;
+    width: 8%;
+    height: 70%;
+    z-index: 2;
+    left: 8%
+}
+
+#a2 {
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    z-index: 2;
+    left: 26%
+}
+
+#a3 {
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    z-index: 2;
+    left: 31%
+}
+
+#a4 {
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    z-index: 2;
+    left: 37%
+}
+
+#a5 {
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    z-index: 2;
+    left: 49%
+}
+
+#a6 {
+    position: absolute;
+    width: 4%;
+    height: 70%;
+    z-index: 2;
+    left: 43%
+}
+
+#a7 {
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    z-index: 2;
+    left: 55%
+}
+
+#a8 {
+    position: absolute;
+    width: 5%;
+    height: 70%;
+    z-index: 2;
+    left: 62%
+}
+
+#a9 {
+    position: absolute;
+    width: 8%;
+    height: 70%;
+    z-index: 2;
+    left: 68%
+}
+
+#a10 {
+    position: absolute;
+    width: 8%;
+    height: 70%;
+    z-index: 2;
+    left: 83%
+}
