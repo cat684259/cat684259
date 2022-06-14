@@ -8,8 +8,8 @@ body {
 #Leaderboard-1 {
     margin-top: -250px;
     position: fixed;
-    top: 67%;
-    left: 910px;
+    top: 47%;
+    right: 350px;
     background-color: #ffffff;
     padding: 10px 20px;
     border-radius: 10px;
@@ -17,8 +17,8 @@ body {
 }
 
 #Leaderboard-1:hover {
-    left: 910px;
-    top: 67.25%;
+    right: 350px;
+    top: 46.75%;
 }
 
 #Leaderboard-1 #title {
@@ -132,6 +132,21 @@ body {
     left: 700px;
     width: 500px;
     height: 300px;
+    background-color: aliceblue;
+    padding: 10px ;
+    border-radius: 10px;
+    overflow:scroll;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#container1 {
+    margin-top: 0px;
+    position: fixed;
+    top: 250px;
+    right: 250px;
+    width: 300px;
+    height: 250px;
     background-color: aliceblue;
     padding: 10px ;
     border-radius: 10px;
