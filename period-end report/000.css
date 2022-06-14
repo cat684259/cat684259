@@ -78,80 +78,100 @@
 
 #a1 {
     position: absolute;
-    width: 8%;
-    height: 70%;
+    width: 5.4%;
+    height: 11%;
+    top: 52.75%;
     z-index: 2;
-    left: 8%
+    left: 7%;
+    clear: both;
 }
 
 #a2 {
     position: absolute;
-    width: 5%;
-    height: 70%;
+    width: 5.75%;
+    height: 11%;
+    top: 42.5%;
     z-index: 2;
-    left: 26%
+    left: 24.5%;
+    clear: both;
 }
 
 #a3 {
     position: absolute;
-    width: 5%;
-    height: 70%;
+    width: 5.5%;
+    height: 11%;
+    top: 27%;
     z-index: 2;
-    left: 31%
+    left: 29.6%;
+    clear: both;
 }
 
 #a4 {
     position: absolute;
-    width: 5%;
-    height: 70%;
+    width: 5.75%;
+    height: 12%;
+    top: 15%;
     z-index: 2;
-    left: 37%
+    left: 36.5%;
+    clear: both;
 }
 
 #a5 {
     position: absolute;
-    width: 5%;
-    height: 70%;
+    width: 4.75%;
+    height: 11%;
+    top: 15%;
     z-index: 2;
-    left: 49%
+    left: 48.5%;
+    clear: both;
 }
 
 #a6 {
     position: absolute;
-    width: 4%;
-    height: 70%;
+    width: 5.2%;
+    height: 10%;
+    top: 25.3%;
     z-index: 2;
-    left: 43%
+    left: 43%;
+    clear: both;
 }
 
 #a7 {
     position: absolute;
-    width: 5%;
-    height: 70%;
+    width: 5.5%;
+    height: 11%;
+    top: 29.3%;
     z-index: 2;
-    left: 55%
+    left: 55.25%;
+    clear: both;
 }
 
 #a8 {
     position: absolute;
-    width: 5%;
-    height: 70%;
+    width: 5.5%;
+    height: 10%;
+    top: 22%;
     z-index: 2;
-    left: 62%
+    left: 63%;
+    clear: both;
 }
 
 #a9 {
     position: absolute;
-    width: 8%;
-    height: 70%;
+    width: 5.75%;
+    height: 11%;
+    top: 34.5%;
     z-index: 2;
-    left: 68%
+    left: 69.5%;
+    clear: both;
 }
 
 #a10 {
     position: absolute;
-    width: 8%;
-    height: 70%;
+    width: 5.25%;
+    height: 11%;
+    top: 52.5%;
     z-index: 2;
-    left: 83%
+    left: 85.4%;
+    clear: both;
 }
