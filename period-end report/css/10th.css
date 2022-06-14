@@ -1,3 +1,4 @@
+/*body 為網頁背景主體設定*/
 body {
     background-color: bisque;
     width: 0px auto;
@@ -5,6 +6,7 @@ body {
     padding: 0px;
 }
 
+/*Leaderboar0-11 為左側導覽列框架設定*/
 #Leaderboard0 {
     margin-top: -250px;
     position: fixed;
@@ -69,7 +71,7 @@ body {
     margin-top: -100px;
     position: fixed;
     top: 50%;
-    left: -41px;
+    left: -89px;
     background-color: #ffffff;
     padding: 10px 20px;
     border-radius: 10px;
@@ -89,7 +91,7 @@ body {
     margin-top: -50px;
     position: fixed;
     top: 50%;
-    left: -89px;
+    left: -41px;
     background-color: #ffffff;
     padding: 10px 20px;
     border-radius: 10px;
@@ -205,7 +207,60 @@ body {
     padding-left: 5px;
 }
 
-#container {
+#Leaderboard10 {
+    margin-top: -100px;
+    position: fixed;
+    top: 50%;
+    left: -41px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard10:hover {
+    left: -10px;
+
+}
+
+#Leaderboard10 #title {
+    padding-left: 5px;
+}
+
+#Leaderboard11 {
+    margin-top: 200px;
+    position: fixed;
+    top: 50%;
+    left: -41px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard11:hover {
+    left: -10px;
+
+}
+
+#Leaderboard11 #title {
+    padding-left: 5px;
+}
+
+/*container0-1 為各網頁中間內文簡介框架設定*/
+#container0 {
+    margin-top: 0px;
+    position: fixed;
+    top: 25%;
+    left: 46%;
+    width: 500px;
+    height: 300px;
+    background-color: aliceblue;
+    padding: 10px ;
+    border-radius: 10px;
+}
+
+#container1 {
     margin-top: 0px;
     position: fixed;
     top: 250px;
@@ -215,8 +270,11 @@ body {
     background-color: aliceblue;
     padding: 10px ;
     border-radius: 10px;
+    overflow:scroll;
+    overflow-x: hidden;
 }
 
+/*LOGO和z1 為畫面左上logo設定*/
 #LOGO{
     position: fixed;
 }
@@ -227,6 +285,7 @@ body {
 
 }
 
+/*z2和title-photo 為畫面右側圖片列和左側大圖的圖片設定*/
 .z2{
     width: 350px;
     height: 150px;
@@ -238,18 +297,20 @@ body {
     height: 450px;
 }
 
+/*x1 為畫面上方標題文字設定*/
 #x1{
     position: fixed;
     top: 0%;
     left: 43%;
 }
 
+/*photo-scorllbar 為右側圖片導覽列表設定*/
 #photo-scorllbar{
     width: 375px;
     height: 720px;
     position: fixed;
-    top: 100px;
-    right: 20px;
+    top: 10%;
+    right: 1%;
     background-color: burlywood;
     padding: 10px 20px;
     border-radius: 10px;
@@ -257,6 +318,7 @@ body {
     overflow-x:hidden;
 }
 
+/*photo-main 為左側主要圖片框架設定*/
 #photo-main{
     background-color: burlywood;
     width: 675px;
@@ -264,25 +326,27 @@ body {
     position: fixed;
     padding: 20px 20px 25px 45px;
     border-radius: 10px;
-    top: 225px;
-    left: 100px;
+    top: 23%;
+    left: 5%;
 }
 
+/*information 為畫面下方育幼院資訊欄框架設定*/
 #information{
     background-color: chocolate;
     position: fixed;
-    width: 1920px;
+    width: 100%;
     height: 50px;
     padding: 30px 10px 0px 10px;
     top: 900px;
     left: 0px;
 }
 
+/*take-a-photo 為畫面網站內容下方'打卡去'框架設定*/
 #take-a-photo{
     position: fixed;
     background-color: darkgoldenrod;
-    right: 760px;
-    top: 600px;
+    right: 39.5%;
+    top: 60%;
     width: 200;
     height: 150;
     padding: 10px;
