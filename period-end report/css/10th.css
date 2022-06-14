@@ -353,6 +353,7 @@ body {
     border-radius: 25%;
 }
 
+/*parent 為畫面下方資訊列文字設定*/
 .parent {
     display: flex;
     /* 水平置中 */
