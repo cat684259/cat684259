@@ -6,7 +6,7 @@ body {
     padding: 0px;
 }
 
-/*Leaderboar0-11 為左側導覽列框架設定*/
+/*Leaderboar0-12 為左側導覽列框架設定*/
 #Leaderboard0 {
     margin-top: -250px;
     position: fixed;
@@ -247,7 +247,105 @@ body {
     padding-left: 5px;
 }
 
-/*container0-1 為各網頁中間內文簡介框架設定*/
+#Leaderboard12 {
+    margin-top: 250px;
+    position: fixed;
+    top: 50%;
+    left: -41px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard12:hover {
+    left: -10px;
+
+}
+
+#Leaderboard12 #title {
+    padding-left: 5px;
+}
+
+#Leaderboard13 {
+    margin-top: 250px;
+    position: fixed;
+    top: 50%;
+    left: -25px;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard13:hover {
+    left: -10px;
+
+}
+
+#Leaderboard13 #title {
+    padding-left: 5px;
+}
+
+/*Leaderboard-a~c 為個人網站中右方名字框架設定*/
+#Leaderboard-a {
+    margin-top: 250px;
+    position: fixed;
+    top: -2%;
+    right:20% ;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard-a:hover {
+    right: 20%;
+}
+
+#Leaderboard-a #title {
+    padding-left: 5px;
+}
+
+#Leaderboard-b {
+    margin-top: 250px;
+    position: fixed;
+    top: 7%;
+    right:20% ;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard-b:hover {
+    right: 20%;
+}
+
+#Leaderboard-b #title {
+    padding-left: 5px;
+}
+
+#Leaderboard-c {
+    margin-top: 250px;
+    position: fixed;
+    top: 16%;
+    right:20% ;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+#Leaderboard-c:hover {
+    right: 20%;
+}
+
+#Leaderboard-c #title {
+    padding-left: 5px;
+}
+
+/*container0-2 為各網頁中間內文簡介框架設定*/
 #container0 {
     margin-top: 0px;
     position: fixed;
@@ -272,6 +370,18 @@ body {
     border-radius: 10px;
     overflow:scroll;
     overflow-x: hidden;
+}
+
+#container2 {
+    margin-top: 0px;
+    position: fixed;
+    top: 20%;
+    left: 30%;
+    width: 500px;
+    height: 300px;
+    background-color: aliceblue;
+    padding: 10px ;
+    border-radius: 10px;
 }
 
 /*LOGO和z1 為畫面左上logo設定*/
